@@ -1,3 +1,4 @@
+# THIS IS NOT YET READY FOR SPRING 2019 - WILL CHANGE A LOT
 # Week-08-SSH-SSL-Certificates
 Cryptograhy, Certificates, Digital Signatures, Man-in-the-middle and more
 
