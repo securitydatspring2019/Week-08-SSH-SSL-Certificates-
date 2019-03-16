@@ -35,7 +35,7 @@ _Since we are not using a text-book, but web resources only, there are many alte
 
 
 - [:book: SSH Read the SSH protocol and skim the rest (5 min.)](https://www.ssh.com/ssh/)
-- [:book: SSH Tunnel (15 min.)] (https://www.ssh.com/ssh/tunneling/)
+- [:book: SSH Tunnel (15 min.)](https://www.ssh.com/ssh/tunneling/)
 <!--
 - [Man in the middle attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) Read the first part (Example) of the article and skim the rest
 - [:book: Symmetric vs Asymetric Encryption](https://www.jscape.com/blog/bid/84422/Symmetric-vs-Asymmetric-Encryption)
