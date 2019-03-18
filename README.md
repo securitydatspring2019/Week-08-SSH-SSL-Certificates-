@@ -30,9 +30,6 @@ _This is going to be a pretty heavy week when it comes to theory. Most of the ex
 - [:tv: What is PIK (public key infrastructure)](https://www.youtube.com/watch?v=5OqgYSXWYQM&t=170s) (watch the first 8 minutes)
 - [:tv: Intro to SSH and SSH Keys](https://www.youtube.com/watch?v=mF6J-VQHPxA&t=293s) (This introduces the three scenaious you are expected to set up in the first exercise, and eventually demonstrate at the exam)
 -->
-_Since we are not using a text-book, but web resources only, there are many alternatives to the suggestions given below. You can use the topic-list given at the beginning of this document and find your own references if you prefer. You are definitely not expected to end up as a hardcore crypto-specialist when this week is over ;-) But you are expected to have a conceptual idea of the purpose with all the topics, and why they are needed for SSL (and SSH)_
-
-
 - [:book: Understanding the SSH Encryption and Connection Process (30 min.)](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process)
 - [:tv: What is SSH? (4 min.)](https://www.youtube.com/watch?v=tCHldm7QTJo)
 - [:tv: Intro to SSH and Keys (13 min.)](https://www.youtube.com/watch?v=mF6J-VQHPxA&t=293s)
@@ -51,3 +48,10 @@ _Since we are not using a text-book, but web resources only, there are many alte
 - [SSH-SSL with MySQL](https://docs.google.com/document/d/1G3GaXH3ZfoX29bQRmUJLxPaTbc8Zta7XgbjFoLVik1c/edit?usp=sharing)
 - [SSL Handshake](https://docs.google.com/document/d/13oD_h5fO9i1rIeQaiMxzG54w3q5dc0neL8nPGX2HEdw/edit?usp=sharing) We will do this together in the class
 - [Tomcat with SSL and preparing for the exam](https://docs.google.com/document/d/1pY6gbHgAzzMZshgwIhejSZ9ROtQy8dHacci0mdJvdcI/edit?usp=sharing) 
+
+## Thuersday March 21 th.
+
+### What to Read or Watch :information_source:
+- [:tv: Introduction to Cryptographic Keys and Certificates (18. min)](https://www.youtube.com/watch?v=q9vu6_2r0o4)
+- [:tv: What are certificates (15 min.)](https://www.youtube.com/watch?v=LRMBZhdFjDI&t=264s) (Covers more or less the same topics as the next video, I do however recomment both)
+-[:tv: What is PIK (watch the first 8 minutes)](https://www.youtube.com/watch?v=5OqgYSXWYQM&t=170s) 
