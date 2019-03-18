@@ -17,8 +17,7 @@ _This is going to be a pretty heavy week when it comes to theory. Most of the ex
 
 [WireShark](https://www.wireshark.org/download.html) if not already done. If you have installed Kali Linux, just continue with the version available here.
 
-#### WireShark SSL-handshake sample we did in the class
-[wireshark-sample (TBD)](#)
+##### WireShark SSL-handshake sample we did in the class  [wireshark-sample (TBD)](#)
       
 ## Wednesday March 20 th.
 
