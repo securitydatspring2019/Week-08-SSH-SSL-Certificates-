@@ -1,6 +1,5 @@
-# THIS IS NOT YET READY FOR SPRING 2019 - WILL CHANGE A LOT
-# Week-08-SSH-SSL-Certificates
-Cryptograhy, Certificates, Digital Signatures, Man-in-the-middle and more
+# Week-08-Crypto,SSH, SSL, Certificates and more
+Cryptograhy, Certificates, Digital Signatures
 
 _This is going to be a pretty heavy week when it comes to theory. Most of the exercises will not involve code, but steps necessary to understand and USE the terms below, and see how they are all required to get a secure connection in a browser_
 - SSH and SSH Tunnels
