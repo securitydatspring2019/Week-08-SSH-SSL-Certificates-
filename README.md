@@ -33,8 +33,8 @@ _This is going to be a pretty heavy week when it comes to theory. Most of the ex
 _Since we are not using a text-book, but web resources only, there are many alternatives to the suggestions given below. You can use the topic-list given at the beginning of this document and find your own references if you prefer. You are definitely not expected to end up as a hardcore crypto-specialist when this week is over ;-) But you are expected to have a conceptual idea of the purpose with all the topics, and why they are needed for SSL (and SSH)_
 
 
-- [:book: Understanding the SSH Encryption and Connection Process](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process)
-- [:tv: What is SSH?](https://www.youtube.com/watch?v=tCHldm7QTJo)
+- [:book: Understanding the SSH Encryption and Connection Process (30 min.)](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process)
+- [:tv: What is SSH? (4 min.)](https://www.youtube.com/watch?v=tCHldm7QTJo)
 - [:tv: Intro to SSH and Keys (13 min.)](https://www.youtube.com/watch?v=mF6J-VQHPxA&t=293s)
 - [:book: SSH Tunnel (15 min.)](https://www.ssh.com/ssh/tunneling/)
 <!--
