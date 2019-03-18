@@ -41,7 +41,7 @@ _This is going to be a pretty heavy week when it comes to theory. Most of the ex
 - [:tv: What is PIK (watch the first 8 minutes)](https://www.youtube.com/watch?v=5OqgYSXWYQM&t=170s) 
 - [:book: Symmetric vs Asymmetric Encryption (10 min.)](https://www.jscape.com/blog/bid/84422/Symmetric-vs-Asymmetric-Encryption)
 - :full_moon: [:book: Cryptographic hash function (5-10. min Skim only)](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
-- :red_circle: [:book:Cipher Suites (6 min. skim only so you know what it is conceptually)](https://www.jscape.com/blog/cipher-suites) neccesary to understand parts of the Wireshark demo
+- :red_circle: [:book: Cipher Suites (6 min. skim only so you know what it is conceptually)](https://www.jscape.com/blog/cipher-suites) neccesary to understand parts of the Wireshark demo
 
 ### Exercises :memo:
 - [SSH-SSL with MySQL (complete)](https://docs.google.com/document/d/1G3GaXH3ZfoX29bQRmUJLxPaTbc8Zta7XgbjFoLVik1c/edit?usp=sharing)
