@@ -29,6 +29,9 @@ _This is going to be a pretty heavy week when it comes to theory. Most of the ex
 <!--
 - [Man in the middle attack](https://en.wikipedia.org/wiki/Man-in-the-middle_attack) Read the first part (Example) of the article and skim the rest
 -->
+<
+### Slides
+[Slides-day1](https://docs.google.com/presentation/d/1POsfOCOQN1bA36P-mlauX4UirJaQHJqTdCH7Cja5WLM/edit?usp=sharing)
 ### Exercises :memo:
 
 - [SSH-SSL with MySQL](https://docs.google.com/document/d/1G3GaXH3ZfoX29bQRmUJLxPaTbc8Zta7XgbjFoLVik1c/edit?usp=sharing)
